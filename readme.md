@@ -1,4 +1,4 @@
-# Thermal
+# Look Up
 
 Thermal imaging, also known as infrared imaging, allows us to visualize and capture thermal energy emitted by objects in the form of heat. By detecting these temperature variations, thermal cameras provide a unique perspective that extends beyond what our naked eyes can perceive. This ability to see the invisible heat signatures makes thermal imaging invaluable across a multitude of industries and applications.
 
