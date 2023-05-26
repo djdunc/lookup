@@ -4,7 +4,7 @@ Thermal imaging, also known as infrared imaging, allows us to visualize and capt
 
 The Lepton FLIR camera is a compact and versatile thermal imaging solution that brings professional-grade thermal imaging capabilities to a broad range of consumer applications. The Lepton camera integrates an advanced microbolometer sensor that captures infrared radiation with remarkable precision and allows us to visualise the invisible.
 
-Thermal demonstrates the capabilities of the [FLIR Lepton](https://www.flir.co.uk/products/lepton/) when connected to a low cost [Raspberry PI](https://www.raspberrypi.org) single board computer utilising the [pylepton library](https://github.com/groupgets/pylepton) to control the camera via [Python](https://www.python.org)
+`LookUp` demonstrates the capabilities of the [FLIR Lepton](https://www.flir.co.uk/products/lepton/) when connected to a low cost [Raspberry PI](https://www.raspberrypi.org) single board computer utilising the [pylepton library](https://github.com/groupgets/pylepton) to control the camera via [Python](https://www.python.org)
 
 ## How is the image generated?
 
