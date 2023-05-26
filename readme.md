@@ -13,6 +13,8 @@ After some internal signal processing to amplifying, filter, and digitize the si
 
 Since thermal imaging captures temperature differences rather than colors, a color mapping scheme is applied to the thermal image to enhance its interpretability. This involves assigning different colors or color gradients to different temperature ranges, creating a [pseudo-color representation of the thermal data](https://www.flir.co.uk/discover/industrial/picking-a-thermal-color-palette/). The color mapping allows users to easily distinguish and analyze temperature variations within the scene. In this example we use the "White Hot" colour palette. 
 
+![sample image](/output.png)
+
 ## What does the code do?
 
 The simplest example to get started is `example_lepton_capture.py`. This opens the camera, takes a reading and then saves it as a file. The overview below describes what is happening.
